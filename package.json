@@ -1,0 +1,8 @@
+{
+  "name": "HackathonFullStackTemplate",
+  "version": "1.0.0",
+  "description": "A template for any hackathon full stack project",
+  "main": "index.js",
+  "author": "trulyronak",
+  "license": "MIT"
+}
