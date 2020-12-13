@@ -9,3 +9,7 @@ This is a template repository that you can use to build any full stack app, whet
 ## Stack
 
 For the backend, this uses a barebones express setup, and the frontend uses a barebones express setup.
+
+## Backend Docs
+
+All routes are documented with [Postman](https://documenter.getpostman.com/view/12316934/TVsoFprj)
